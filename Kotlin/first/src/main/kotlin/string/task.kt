@@ -1,0 +1,4 @@
+package string
+
+class task {
+}
